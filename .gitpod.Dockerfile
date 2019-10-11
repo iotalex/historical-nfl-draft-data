@@ -9,4 +9,10 @@ RUN apt-get update \
     && apt-get install -y csvkit \
     && apt-get clean && rm -rf /var/cache/apt/* && rm -rf /var/lib/apt/lists/* && rm -rf /tmp/*
 
+RUN wget -q https://packages.microsoft.com/config/ubuntu/18.04/packages-microsoft-prod.deb && \
+    dpkg -i packages-microsoft-prod.deb && rm -rf packages-microsoft-prod.deb && \
+    add-apt-repository universe && \
+    apt-get update && apt-get -y -o APT::Install-Suggests="true" install dotnet-sdk-3.0 && \
+    apt -y clean;
+
 # More information: https://www.gitpod.io/docs/42_config_docker/
