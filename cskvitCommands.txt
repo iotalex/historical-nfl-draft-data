@@ -1,0 +1,2 @@
+//Joins first file to second file on school.
+csvjoin --left -c School 2014To2018Drafts-refined.csv SchoolStatesAndConferences.csv --snifflimit 0 > 2014To2018WithStates.csv
