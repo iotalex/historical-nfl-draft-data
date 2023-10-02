@@ -1,4 +1,4 @@
-Rnd,Pick,Tm,Player,Pos,Age,To,AP1,PB,St,wAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Solo,Int,Sk,College/Univ,,-9999
+Rnd,Pick,Tm,Player,Pos,Age,To,AP1,PB,St,wAV,DrAV,G,PassCmp,PassAtt,PassYds,PassTD,PassInt,RushAtt,RushYds,RushTD,Rec,RecYds,RecTD,SoloTkl,Int,Sk,College/Univ,Statlink,PlayerID
 1,1,JAX,Travon Walker,DE,21,2023,0,0,1,6,6,18,0,0,0,0,0,0,0,0,0,0,0,31,1,4.5,Georgia,College Stats,WalkTr03
 1,2,DET,Aidan Hutchinson,DE,22,2023,0,0,1,8,8,21,0,0,0,0,0,0,0,0,0,0,0,43,3,13.0,Michigan,College Stats,HutcAi00
 1,3,HOU,Derek Stingley Jr.,CB,21,2023,0,0,1,3,3,11,0,0,0,0,0,0,0,0,0,0,0,43,1,1.0,LSU,College Stats,StinDe00

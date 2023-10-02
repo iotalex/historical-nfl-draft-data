@@ -1,4 +1,4 @@
-Rnd,Pick,Tm,Player,Pos,Age,To,AP1,PB,St,wAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Solo,Int,Sk,College/Univ,,-9999
+Rnd,Pick,Tm,Player,Pos,Age,To,AP1,PB,St,wAV,DrAV,G,PassCmp,PassAtt,PassYds,PassTD,PassInt,RushAtt,RushYds,RushTD,Rec,RecYds,RecTD,SoloTkl,Int,Sk,College/Univ,Statlink,PlayerID
 1,1,CLE,Baker Mayfield,QB,23,2023,0,0,4,46,40,75,1448,2352,16924,106,65,204,690,6,1,17,0,1,,,Oklahoma,College Stats,MayfBa00
 1,2,NYG,Saquon Barkley,RB,21,2023,0,2,4,38,38,62,0,0,0,0,0,983,4363,30,256,1861,9,,,,Penn St.,College Stats,BarkSa00
 1,3,NYJ,Sam Darnold,QB,21,2023,0,0,4,25,16,58,1054,1765,11767,61,55,191,742,12,0,0,0,,,,USC,College Stats,DarnSa00

@@ -1,4 +1,4 @@
-Rnd,Pick,Tm,Player,Pos,Age,To,AP1,PB,St,wAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Solo,Int,Sk,College/Univ,,-9999
+Rnd,Pick,Tm,Player,Pos,Age,To,AP1,PB,St,wAV,DrAV,G,PassCmp,PassAtt,PassYds,PassTD,PassInt,RushAtt,RushYds,RushTD,Rec,RecYds,RecTD,SoloTkl,Int,Sk,College/Univ,Statlink,PlayerID
 1,1,LAR,Jared Goff,QB,21,2023,0,3,6,71,48,104,2341,3633,26883,161,73,221,486,11,1,5,0,2,,,California,College Stats,GoffJa00
 1,2,PHI,Carson Wentz,QB,23,2022,0,1,6,59,43,93,2056,3284,22129,151,66,337,1362,10,2,11,0,1,,,North Dakota St.,College Stats,WentCa00
 1,3,SDG,Joey Bosa,DE,21,2023,0,4,6,49,49,87,0,0,0,0,0,0,0,0,0,0,0,226,,63.5,Ohio St.,College Stats,BosaJo00

@@ -1,4 +1,4 @@
-Rnd,Pick,Tm,Player,Pos,Age,To,AP1,PB,St,wAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Solo,Int,Sk,College/Univ,,-9999
+Rnd,Pick,Tm,Player,Pos,Age,To,AP1,PB,St,wAV,DrAV,G,PassCmp,PassAtt,PassYds,PassTD,PassInt,RushAtt,RushYds,RushTD,Rec,RecYds,RecTD,SoloTkl,Int,Sk,College/Univ,Statlink,PlayerID
 1,1,CIN,Joe Burrow,QB,23,2023,0,1,3,38,38,45,1111,1651,12337,84,33,157,519,10,0,0,0,1,,,LSU,College Stats,BurrJo01
 1,2,WAS,Chase Young,DE,21,2023,0,1,1,19,19,29,0,0,0,0,0,0,0,0,0,0,0,55,,10.5,Ohio St.,College Stats,YounCh04
 1,3,DET,Jeff Okudah,CB,21,2023,0,0,1,7,7,26,0,0,0,0,0,0,0,0,0,0,0,103,2,,Ohio St.,College Stats,OkudJe00

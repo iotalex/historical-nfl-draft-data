@@ -1,4 +1,4 @@
-Rnd,Pick,Tm,Player,Pos,Age,To,AP1,PB,St,wAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Solo,Int,Sk,College/Univ,,-9999
+Rnd,Pick,Tm,Player,Pos,Age,To,AP1,PB,St,wAV,DrAV,G,PassCmp,PassAtt,PassYds,PassTD,PassInt,RushAtt,RushYds,RushTD,Rec,RecYds,RecTD,SoloTkl,Int,Sk,College/Univ,Statlink,PlayerID
 1,1,CAR,Bryce Young,QB,22,2023,0,0,0,0,0,2,42,71,299,2,2,5,51,0,0,0,0,,,,Alabama,College Stats,YounBr01
 1,2,HOU,C.J. Stroud,QB,21,2023,0,0,0,0,0,3,78,121,906,4,0,10,35,0,1,0,0,,,,Ohio St.,College Stats,StroCJ00
 1,3,HOU,Will Anderson,LB,22,2023,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,9,,1.0,Alabama,College Stats,AndeWi01
